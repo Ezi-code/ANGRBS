@@ -1,13 +1,13 @@
-# Church Organization Web Platform
+# ANGRBC Web Platform
 
 ## Overview
-This is a Django-based web platform designed for church organizations to manage their affiliated churches, programs, and events. The platform serves as both a central hub for the main organization and provides individual web presence for member churches.
+This is a Django-based web platform designed for the Association of Northern Ghana Regular Baptist Churches (ANGRBC) to manage their affiliated churches, programs, and events. The platform serves as both a central hub for ANGRBC and provides individual web presence for member churches.
 
 ## 🌟 Key Features
-- **Multi-Church Management**: Central organization with linked individual church websites
-- **Program Management**: Create and manage organization-wide programs
-- **Custom Registration System**: Dynamic form builder for program registrations
-- **Content Management**: Each church can manage its own content
+- **Multi-Church Management**: Central ANGRBC hub with linked individual church websites
+- **Program Management**: Create and manage ANGRBC-wide programs
+- **Custom Registration System**: Dynamic form builder for program registrations 
+- **Content Management**: Each member church can manage its own content
 - **User Management**: Role-based access control system
 
 ## 📁 Project Structure
